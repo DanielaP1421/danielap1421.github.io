@@ -44,5 +44,7 @@ Binary is a number system that use 0 and 1.
      00000100 = 4
      00111011 = 59
      00100011 = 35
+
 ---
+
 [Notebook Style Guide](style.md)
