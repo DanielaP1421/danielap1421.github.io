@@ -1,10 +1,11 @@
 # My Coding Notebook
-
+---
+   ## Go to my codimg notebook
+    [Coding Notebook](notebook.md)
+---
 8/25 in class we're:
 1. Adding notebook page
 2. Adding the link to the notebook in the index.md fule by writing:
-     ## Go to my codimg notebook
-     [Coding Notebook](notebook.md)
 ---
 8/28 class:
 ## Patterns:
@@ -50,5 +51,7 @@ Binary is a number system that use 0 and 1.
      10101010 = 170
      01000101 = 69
      00000100 = 4
-
+     00111011 = 59
+     00100011 = 35
+---
 [Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
