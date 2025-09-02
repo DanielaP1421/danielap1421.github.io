@@ -5,33 +5,24 @@
 ---
 8/25 in class we're:
 1. Adding notebook page
-2. Adding the link to the notebook in the index.md fule by writing:
+2. Adding the link to the notebook in the index.md
 ---
 8/28 class:
 ## Patterns:
-000;
-111;
-101;
-110;
-001;
-011;
-110;
-100
-
+    000
+    111
+    101
+    110
+    001
+    011
+    110
+    100
+---
 ## Patterns 3x3:
-011
-101
-110
+    011   |   101   |   000
+    101   |   101   |   010
+    110   |   101   |   000
 ---
-101
-101
-101
----
-000
-010
-000
----
-
 ## Binary:
 Binary is a number system that use 0 and 1.
      
