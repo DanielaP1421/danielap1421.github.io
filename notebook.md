@@ -45,4 +45,4 @@ Binary is a number system that use 0 and 1.
      00111011 = 59
      00100011 = 35
 ---
-[Notebook Style Guide](#markdown-style-guide-for-coding-notebooks)
+[Notebook Style Guide](style.md)
