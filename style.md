@@ -135,12 +135,12 @@ This concept is related to object-oriented programming.[^1]
 ---
  
 ✅ Bottom Line:
-Headings = Structure
-Bold/Italic = Emphasis
-Code blocks = Code
-Lists = Steps/Ideas
-Tables = Organization
-Checklists = Progress
-Blockquotes = Notes/Tips
-Collapsible = Hide/Show detail
-Keep it simple, consistent, and clear.
+- Headings = Structure
+- Bold/Italic = Emphasis
+- Code blocks = Code
+- Lists = Steps/Ideas
+- Tables = Organization
+- Checklists = Progress
+- Blockquotes = Notes/Tips
+- Collapsible = Hide/Show detail
+- Keep it simple, consistent, and clear.
