@@ -13,19 +13,19 @@
 8/28 class:
 ## Binary Notes:
 
-## Patterns:
+### Patterns:
 |000|111|101|110|
 |-|-|-|-|
 |001|011|110|100|
 
 ---
-## Binary:
+### Binary:
 Binary is a number system that use 0 and 1.
      
      0 is unactive
      1 is active
 
-## Binary Flippy-do/number system:
+### Binary Flippy-do/number system:
 
 |Power:|2^7|2^6|2^5|2^4|2^3|2^2|2^1|2^0|
 |-|-|-|-|-|-|-|-|-|
@@ -68,7 +68,9 @@ Convert 2989 from decimal (base 10) to hexadecimal (base 16)
 
 ---
 
-## Code Definition:
+## Coding:
+
+### Code Definition:
 
 | Term | Definition | Base Structure / Syntax | Real Life Example | App Example |
 |------|------------|--------------------------|-------------------|-------------|
@@ -96,7 +98,7 @@ Convert 2989 from decimal (base 10) to hexadecimal (base 16)
 
 ---
 
-## Pseudocode Java Reference  
+### Pseudocode and Java Table  
 
 | **Concept** | **CSP Pseudocode** | **Java** |
 |-------------|--------------------|----------|
