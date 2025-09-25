@@ -138,7 +138,7 @@ Examples; int, char, boolean, double
 Object Datatype, they are too big for 1 byte, so instead of storing tha data, it stores a pointer, which points to the memory location of the data
 Examples: String, ArrayList, and objects created from a class
 
-**Senicolor ;**
+**Senicolon ;**
 Is like a period. It's end of your code statement
 
 
