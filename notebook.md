@@ -8,6 +8,7 @@
      - [Code Definitions](#code-definition)
      - [Pseudocode and Java Table](pseudocode-java-reference)
      - [Variables and Datatypes](#variables-and-datatypes)
+     - [Conditionals](#conditionals)
      - [Notebook Style Guide](style.md)
 
 ---
@@ -141,5 +142,24 @@ Examples: String, ArrayList, and objects created from a class
 **Senicolon ;**
 Is like a period. It's end of your code statement
 
+---
 
+### Conditionals
 
+if(condition)
+{
+	//do if condition is true
+} else if (nextCondition)
+{
+//do if condition is false but nextCondition is true
+} else
+{
+	//do if all prior conditions are false
+}
+
+### Symbols:
+> greater than
+< less than
+≥
+
+word.equals(word2) --> to check if the values of strings are equal
