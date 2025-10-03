@@ -163,3 +163,28 @@ if(condition)
 ≥
 
 word.equals(word2) --> to check if the values of strings are equal
+
+### Functions/Procedures
+
+Base Structure:
+```Java
+AccessModifier static* returnType functionName(parameter(s) dataType parameter1, dataType parameter2)
+{
+	//body of function, wrrite code block here
+}
+Defining the parts of the function:
+AccessModifier:
+	public: can be accessed outside of the file/class - standard
+	private: can only be accssed within the file/class
+
+Static: common, but optional, means that it can
+
+
+
+//Example:
+```Java
+public static void greet(String name)
+{
+	System.outprintln("Hello, ")
+}
+
