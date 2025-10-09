@@ -179,12 +179,3 @@ AccessModifier:
 
 Static: common, but optional, means that it can
 
-
-
-//Example:
-```Java
-public static void greet(String name)
-{
-	System.outprintln("Hello, ")
-}
-
