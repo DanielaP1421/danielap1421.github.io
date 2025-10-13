@@ -9,6 +9,7 @@
      - [Pseudocode and Java Table](pseudocode-java-reference)
      - [Variables and Datatypes](#variables-and-datatypes)
      - [Conditionals](#conditionals)
+     - [For Loops](#)
      - [Notebook Style Guide](style.md)
 
 ---
@@ -178,4 +179,24 @@ AccessModifier:
 	private: can only be accssed within the file/class
 
 Static: common, but optional, means that it can
+
+```
+---
+
+### For Loops
+
+```java
+for (int i = 1; i <= 10; i ++){
+	//body of code
+}
+
+```
+Components of the for loop:
+- for: specifies the type of loop.
+- parenthesis(): contains the rules for the loop.
+- int i = 1; : creates the counter variable starting at 0 or 1 most often, standard naming calls it "i" which is short for index, but could be named counter, score, or any other relevant name.
+- i ++ : incrementes "i" by 1, could be replaced with i = i + 1, i += 2 which would add 2, i *= 3 which would multiply it by 3, or any other modifiers.
+- curly brackets{}: the body of the code that runs during the loop.
+
+
 
