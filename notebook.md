@@ -6,6 +6,7 @@
      - [From Decimal Conversion Table](#convert-from-decimal)
 - [Coding](coding)
      - [Code Definitions](#code-definition)
+     - [Algorithm Notes](#algorithm-notes)
      - [Pseudocode and Java Table](pseudocode-java-reference)
      - [Variables and Datatypes](#variables-and-datatypes)
      - [Conditionals](#conditionals)
@@ -99,9 +100,12 @@ Convert 2989 from decimal (base 10) to hexadecimal (base 16)
 | Override | Changing how a built-in or inherited function behaves. | `@override` | Flash can run much faster than anyone else |  |
 | Void | A function that does not return a value. | `void printMessage() {}` | Speaking |  |
 
----
 
-### Pseudocode and Java Table:  
+## Algorithm Notes:
+
+### Questions to ask
+---
+## Pseudocode and Java Table:  
 
 | **Concept** | **CSP Pseudocode** | **Java** |
 |-------------|--------------------|----------|
